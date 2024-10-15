@@ -33,4 +33,4 @@ Failed Login Attempts: Optionally reports failed login attempts for security ins
 Project Url ------- https://roadmap.sh/projects/server-stats
 
 You Can Run This file With The Following Commands - ./server-stats.sh
-                                                  - bash server-stats.sh
+                                                  OR bash server-stats.sh
